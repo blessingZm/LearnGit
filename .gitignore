@@ -12,5 +12,5 @@ dist
 build
 
 # My configurations:
-db.ini
+.ini
 deploy_key_rsa
