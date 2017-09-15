@@ -12,5 +12,5 @@ dist
 build
 
 # My configurations:
-.ini
+*.ini
 deploy_key_rsa
