@@ -1,0 +1,6 @@
+将注册表中HKEY_CLASSES_ROOT\Python.File\shell\open\command的值设置为：
+"D:\Program Files\Python36\pythonw.exe" "D:\Program Files\Python36\Lib\idlelib\idle.pyw" -e "%1"（路径要改为自己python的安装路径）
+
+python -m PyQt5.uic.pyuic  ui文件路径+名字 -o 输出的py文件路径加名字
+
+Anaconda3
